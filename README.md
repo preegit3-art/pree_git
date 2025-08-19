@@ -1,2 +1,2 @@
 ## About
-About section (feature branch)
+Combined edit from main and branch
